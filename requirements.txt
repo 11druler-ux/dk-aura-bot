@@ -3,3 +3,4 @@ flask
 google-generativeai
 
 flask-cors
+gunicorn
